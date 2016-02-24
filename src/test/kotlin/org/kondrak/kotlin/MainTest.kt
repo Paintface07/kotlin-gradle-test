@@ -1,7 +1,6 @@
 package org.kondrak.kotlin
 
 import org.junit.Test
-import org.kondrak.kotlin.main
 import kotlin.test.*
 
 /**
